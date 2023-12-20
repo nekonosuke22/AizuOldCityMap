@@ -3,9 +3,6 @@
 注意 このソフトウェアは未完成です。改善の余地あり。\
 Unity version 2021.3.14f1 動作確認済み
 
-また、このソフトウェアは以下のソフトウェアの拡張となります。\
-https://github.com/s1270090-Okazaki/AizuOldCityMap
-
 ## 動作方法
 1. github上から code -> Download ZIP を選択
 2. Unity, Unity Hub をダウンロード
